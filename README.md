@@ -19,10 +19,14 @@
 运行环境依赖
 -------------
 
+OS: Unix-like operating system
+
+Python:
 建议使用Python3.5+版本。
 我们不对Python2.x系列提供支持。
 
-虽然所有Demo代码在发布前都会经过测试，
+
+虽然所有demo代码在发布前都会经过测试，
 但以个人之力难免会出现未发现的错误（包含文档注释等）
 
 若您发现了错误，欢迎提交PR来修正。
@@ -31,5 +35,24 @@
 
 
 对于其他问题，欢迎在公众号在当期文章留言（建议）或者直接在公众号中留言。
+
+
+如何运行
+-------------
+
+```
+pip install -r requirements.txt
+python app.py
+```
+
+更多详情建议查看公众号对应的文章
+
+
+微信公众号： 风爻哥哥
+
+ID: hello-stormxx
+
+![扫码关注]
+(https://github.com/wangwenpei/shining-flask/tree/master/static/hello-stormxx.jpg)
 
 
