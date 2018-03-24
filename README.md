@@ -52,6 +52,6 @@ python app.py
 
 ID: hello-stormxx
 
-![扫码关注](https://github.com/wangwenpei/shining-flask/tree/master/static/hello-stormxx.jpg)
+![扫码关注](./static/hello-stormxx.jpg?raw=true "风爻哥哥")
 
 
