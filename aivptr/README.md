@@ -23,6 +23,8 @@ cd project-a && python app.py
 cd ../project-b && python app.py
 ```
 
+运行完成后，在DB中查看相关表结构已生效。
+
 如存在依赖缺失，请自行安装，并反馈至公众号。
 
 项目A 使用浏览器访问 [http://127.0.0.1:5000](http://127.0.0.1:5000)
