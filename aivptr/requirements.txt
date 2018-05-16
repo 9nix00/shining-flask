@@ -1,2 +1,5 @@
+pymysql
 flask
 flask-fantasy
+flask-security
+flask-migrate
