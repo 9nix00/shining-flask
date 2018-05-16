@@ -12,6 +12,7 @@ How To
 ---------
 - 全局依赖，参考 [README.md](../README.md)
 - docker & docker-compose
+- 建议先停止掉本地的Mysql Server使用已配置的docker启动。
 
 快速运行
 ---------
