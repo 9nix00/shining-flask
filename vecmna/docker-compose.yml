@@ -1,0 +1,10 @@
+version: '3'
+services:
+  kickstart:
+    build: .
+    container_name: flask-kickstart
+    environment:
+      FANTASY_ACTIVE_DB: 'no'
+      FANTASY_ACTIVE_CACHE: 'no'
+    ports:
+      - 5000:5000
