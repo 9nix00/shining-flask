@@ -1,6 +1,9 @@
 风爻的开发日常 - Flask系列文章代码集合
 ====
 
+[![Build Status](https://secure.travis-ci.org/wangwenpei/flask-kickstart.png?branch=master)](https://travis-ci.org/wangwenpei/flask-kickstart)
+[![Code Coverage Status](https://codecov.io/github/wangwenpei/flask-kickstart/coverage.svg?branch=master)](https://codecov.io/github/wangwenpei/flask-kickstart?branch=master)
+
 
 声明
 --
@@ -40,6 +43,10 @@ Python:
 
 如何运行
 -------------
+
+
+每个Demo Code文件目录都会有对应的 `README.md` 请参考对应的目录。
+如无特殊说明，可参考
 
 ```
 pip install -r requirements.txt

@@ -1,0 +1,19 @@
+language: python
+env:
+  - FANTASY_ACTIVE_DB=no FANTASY_ACTIVE_CACHE=no
+python:
+  - "3.4"
+  - "3.5"
+  - "3.5-dev"
+  - "3.6"
+  - "3.6-dev"
+  - "pypy3"
+install:
+  - "pip install -r vecmna/requirements.txt"
+  - "pip install -r vecmna/requirements.test.txt"
+script:
+  - "flake8"
+  - "pytest"
+  - "pytest --cov=./vecmna"
+after_success:
+  - "codecov"
