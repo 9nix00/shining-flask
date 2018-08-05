@@ -1,6 +1,13 @@
 fudge
+codecov
+flake8
 pytest
 pytest-pep8
 pytest-cov
 pytest-instafail
 pytest-mock
+pytest-logging
+pytest-mock
+pytest-watch
+pytest-xdist
+pytest-flask

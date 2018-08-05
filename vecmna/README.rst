@@ -1,33 +1,45 @@
-Flask-Kickstart
-=================
+Flask开发日常 - 没有测试用例的项目都是耍流氓
+===========================================
 
-推荐工作环境
+|build-status| |coverage|
+
+
+推荐开发环境
 ------------------
 
 - pycharm
 - macOS
 - python3.5+
-- docker
-
 
 注意事项
 -----------
 
-* 我们不对python3.5以下版本提供支持
-* 项目保留名称： **lego** 、 **hive** 、
-  请不要将项目命名为此名称，后续我们可能会开源相关的组件，以减少冲突。
+* 我们不对python3.5以下版本及windows提供支持
 
 
-快速开始
-----------
+
+知识储备要求[自行学习]
+---------------------
+
+- 了解 `pip` 的基本用法
+- 了解 `pytest` 的基本用法
 
 
 快速预览
-^^^^^^^^^^^^
-需要占用5000端口
+----------
 
 .. code-block::
 
-    docker-compose up -d
-    curl http://127.0.0.1:5000
+    pip install -r requirements.txt
+    pip install -r requirements.test.txt
+    pytest
+
+
+
+.. |build-status| image:: https://secure.travis-ci.org/wangwenpei/flask-kickstart.png?branch=master
+    :alt: Build status
+    :target: https://travis-ci.org/wangwenpei/flask-kickstart
+
+.. |coverage| image:: https://codecov.io/github/wangwenpei/flask-kickstart/coverage.svg?branch=master
+    :target: https://codecov.io/github/wangwenpei/flask-kickstart?branch=master
 

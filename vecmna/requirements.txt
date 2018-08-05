@@ -19,3 +19,4 @@ flask-admin
 flask-caching
 flask-security
 flask-mongoengine
+flask-fantasy
