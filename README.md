@@ -1,8 +1,8 @@
 风爻的开发日常 - Flask系列文章代码集合
 ====
 
-[![Build Status](https://secure.travis-ci.org/wangwenpei/flask-kickstart.png?branch=master)](https://travis-ci.org/wangwenpei/flask-kickstart)
-[![Code Coverage Status](https://codecov.io/github/wangwenpei/flask-kickstart/coverage.svg?branch=master)](https://codecov.io/github/wangwenpei/flask-kickstart?branch=master)
+[![Build Status](https://secure.travis-ci.org/wangwenpei/shning-flask.png?branch=master)](https://travis-ci.org/wangwenpei/shning-flask)
+[![Code Coverage Status](https://codecov.io/github/wangwenpei/shning-flask/coverage.svg?branch=master)](https://codecov.io/github/wangwenpei/shning-flask?branch=master)
 
 
 声明
