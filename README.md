@@ -1,8 +1,8 @@
 风爻的开发日常 - Flask系列文章代码集合
 ====
 
-[![Build Status](https://secure.travis-ci.org/wangwenpei/shning-flask.png?branch=master)](https://travis-ci.org/wangwenpei/shning-flask)
-[![Code Coverage Status](https://codecov.io/github/wangwenpei/shning-flask/coverage.svg?branch=master)](https://codecov.io/github/wangwenpei/shning-flask?branch=master)
+[![Build Status](https://secure.travis-ci.org/wangwenpei/shining-flask.png?branch=master)](https://travis-ci.org/wangwenpei/shining-flask)
+[![Code Coverage Status](https://codecov.io/github/wangwenpei/shining-flask/coverage.svg?branch=master)](https://codecov.io/github/wangwenpei/shining-flask?branch=master)
 
 
 声明
@@ -15,7 +15,7 @@
 
 目录：
 
-- 《有一种框架叫中小微》 [gkmamn](./gkmamn)
+- 《有一种框架叫中小微》 [gkmamn](https://github.com/wangwenpei/shning)
 - 《打造生产级Migrate》 [aivptr](./aivptr)
 - 《没有测试用例的项目都是耍流氓》 [vecmna](./vecmna)
 
