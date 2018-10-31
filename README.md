@@ -15,9 +15,11 @@
 
 目录：
 
-- 《有一种框架叫中小微》 [gkmamn](https://github.com/wangwenpei/shning)
+- 《有一种框架叫中小微》 [gkmamn](./gkmamn)
 - 《打造生产级Migrate》 [aivptr](./aivptr)
 - 《没有测试用例的项目都是耍流氓》 [vecmna](./vecmna)
+- 《你的账户模块设计对了吗》 [xuinrg](./xuinrg)
+
 
 
 运行环境依赖
